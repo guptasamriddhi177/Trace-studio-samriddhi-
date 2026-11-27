@@ -1,6 +1,5 @@
-TRACE 🔎
-
-okay but hear me out...
+# TRACE 🔎
+### okay but hear me out...
 
 so, what even is TRACE?
 
@@ -8,13 +7,15 @@ well, imagine having a random question, getting curious about something, falling
 
 yeah. THAT'S the vibe.
 
-TRACE is built around curiosity, exploration and basically not being the person who just sees something and moves on. it's about digging deeper, asking questions, finding connections and looking at things a little differently.
+TRACE is built around curiosity, exploration and basically not being the person who just sees something and moves on.
 
-because let's be real, there's SO much information around us rn. like literally everywhere. but how much of it do we actually understand? how often do we stop scrolling, think for a second and try to figure out what's really going on?
+it's about digging deeper, asking questions, finding connections and looking at things a little differently.
 
-that's what TRACE wants to change.
+because let's be real, there's SO much information around us rn. literally everywhere. but how much of it do we actually understand?
 
-okay, but what's the actual idea?
+that's what TRACE wants to explore.
+
+## okay, but what's the actual idea?
 
 TRACE is a project focused on making exploration and discovery more interesting and meaningful.
 
@@ -24,7 +25,7 @@ it's for the curious ones. the overthinkers (in a productive way lol), the quest
 
 basically, if your brain has 37 tabs open at all times, welcome.
 
-why did I even want to build this?
+## why did I even want to build this?
 
 because I feel like we're consuming more information than ever, but that doesn't necessarily mean we're understanding more.
 
@@ -33,14 +34,12 @@ everything is so fast now. quick answers, short videos, endless scrolling. we ra
 I wanted TRACE to be built around a different approach.
 
 not just finding stuff, but understanding it.
-
 not just looking at information, but questioning it.
-
 not just accepting things, but figuring out the connections ourselves.
 
 and honestly, I think that's something worth exploring.
 
-who is this even for?
+## who's this even for?
 
 honestly? anyone who's curious.
 
@@ -52,7 +51,7 @@ honestly? anyone who's curious.
 
 you don't need to be some genius researcher or tech expert to get involved. being curious is enough.
 
-THE BIGGER PICTURE 🚀
+## THE BIGGER PICTURE 🚀
 
 okay, now here's where it gets interesting.
 
@@ -66,25 +65,29 @@ there's so much that could be explored here.
 
 obviously, these are future possibilities, not features I'm claiming are already live. one step at a time.
 
-and what about the market?
+## AND WHAT ABOUT THE MARKET? 📈
 
 because yeah, ideas are cool, but they also need to make sense outside of a GitHub repository.
 
-TRACE has potential to fit into a few pretty interesting markets:
+TRACE has potential to fit into a few interesting markets:
 
-EdTech: students are always looking for better ways to learn, explore and understand things outside classrooms.
+EDTECH:
+Students are always looking for better ways to learn, explore and understand things outside classrooms.
 
-AI & intelligent discovery: AI is changing how people search, learn and interact with information. TRACE could explore this space with smarter discovery experiences.
+AI & INTELLIGENT DISCOVERY:
+AI is changing how people search, learn and interact with information. TRACE could explore this space with smarter discovery experiences.
 
-Research & productivity: people deal with tons of information every day. making it easier to explore and connect relevant information could solve an actual problem.
+RESEARCH & PRODUCTIVITY:
+People deal with tons of information every day. Making it easier to explore and connect relevant information could solve an actual problem.
 
-Community learning: imagine people exploring topics together, sharing discoveries and building on each other's ideas.
+COMMUNITY LEARNING:
+Imagine people exploring topics together, sharing discoveries and building on each other's ideas.
 
-okay, but how could it actually make money?
+## okay, but how could it actually make money?
 
 some possibilities:
 
-- Free basic access (because not everything needs to be behind a paywall).
+- Free basic access.
 - Optional premium features.
 - Subscription plans for advanced users.
 - Partnerships with schools and educational organisations.
@@ -92,7 +95,7 @@ some possibilities:
 
 the idea would be to keep the core experience accessible while making advanced features sustainable.
 
-market value?
+## MARKET VALUE?
 
 I'm not gonna randomly throw around a $10 million valuation just to make the project sound cool lmao.
 
@@ -100,7 +103,7 @@ the actual value depends on how useful TRACE becomes, how many people use it, wh
 
 but the space it's exploring has genuine commercial potential. the challenge is turning that potential into an actual product people want.
 
-where are we rn?
+## WHERE ARE WE RN?
 
 TRACE is still a work in progress.
 
@@ -110,7 +113,7 @@ some ideas will work. some probably won't. that's literally how building stuff g
 
 I'd rather build something useful slowly than rush something just for the sake of saying it's finished.
 
-one last thing :)
+## one last thing :)
 
 I think the internet needs more people who are curious enough to question things instead of just accepting whatever shows up on their screens.
 
@@ -124,6 +127,6 @@ still building. still learning. still figuring things out.
 
 anyway, if you've made it this far, you're officially part of the rabbit hole.
 
-don't just scroll past it. TRACE it. 🔎
+DON'T JUST SCROLL PAST IT. TRACE IT. 🔎
 
 made with curiosity, late-night ideas and an unreasonable number of open tabs.
