@@ -1,4 +1,7 @@
 # TRACE 🔎
+
+https://trace-the-web.netlify.app/
+
 ### okay but hear me out...
 
 so, what even is TRACE?
