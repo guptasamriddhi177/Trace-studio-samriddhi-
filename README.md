@@ -1,73 +1,129 @@
-### TRACE
+TRACE 🔎
 
-### Don't just believe it. Investigate it.
+okay but hear me out...
 
-![Bea Uusma om nya fyndet: "Otroligt spännande"](https://images.openai.com/static-rsc-4/QvEek7zKgzZlWQ9Hfo890dI0yjxIA9n6uBdqxaUVFy4pCjRbOn6oKqS9ZaxNmyPZSoU6mF08xIcLXHV0pNIKeZVUREoVCq27IsCXlb2FAeCz8RGpe70qtg7-dAWyMI0QRBbIgEmHKW9K4F1ViO9hlgTOr0jLlgxTWLdHuXBwJ_uj91UC2u4t9cXy0SzFyF55?purpose=fullsize)
+so, what even is TRACE?
 
-![Investigative Journalism at Its Best](https://images.openai.com/static-rsc-4/TNNCVX29bHwXEvV8ZEkflkj9619QL4pm4As59DHFfldWtV2DK8AWz-z-fN9FfagDyIULx-9XTBwrNMeVhZyZAb6AAl2K7EJBGyKHc4DfVxgqsbXxe2HGRMGv2C74EAvdUDerp3VV3WIQ6JVzJ7vedE4VkNDTrww2EqSK49PHikxFpnmLMuirc6PHZlp2T6Bv?purpose=fullsize)
+well, imagine having a random question, getting curious about something, falling into a rabbit hole and suddenly spending 3 hours trying to connect things that probably nobody else even noticed.
 
-TRACE is a claim-investigation platform designed to help people question, examine, and understand information they encounter online. In a world where information spreads within seconds, misleading headlines, manipulated screenshots, out-of-context videos, fabricated statistics, and AI-generated content are becoming increasingly difficult to distinguish from credible information.
+yeah. THAT'S the vibe.
 
-The problem isn't a lack of information. It's knowing which information deserves trust. A claim can be shared thousands of times, repeated by multiple accounts, or presented in a convincing format without actually being supported by reliable evidence. Searching the internet can produce hundreds of results, but finding information and verifying it are two entirely different things.
+TRACE is built around curiosity, exploration and basically not being the person who just sees something and moves on. it's about digging deeper, asking questions, finding connections and looking at things a little differently.
 
-TRACE aims to turn that scattered process into a structured investigation. Instead of simply delivering an answer, it examines what is being claimed, identifies the information needed to verify it, explores relevant sources, compares available evidence, and uncovers missing context. It helps users understand not just what a claim says, but where it originated, how it is supported, and whether the available evidence actually holds up.
+because let's be real, there's SO much information around us rn. like literally everywhere. but how much of it do we actually understand? how often do we stop scrolling, think for a second and try to figure out what's really going on?
 
-### The Problem
+that's what TRACE wants to change.
 
-Information travels faster than verification. People encounter claims through Instagram, YouTube, news websites, WhatsApp, X, online communities, and countless other platforms. Often, the original source is missing, the date is unclear, or the information is presented without the context necessary to understand it properly.
+okay, but what's the actual idea?
 
-Investigating a single claim can require opening multiple websites, finding the original publication, checking dates, comparing different reports, examining the credibility of sources, and separating facts from opinions. Even after all that effort, users may still be left with conflicting information and no clear understanding of what to conclude.
+TRACE is a project focused on making exploration and discovery more interesting and meaningful.
 
-TRACE is designed to make this process less fragmented, helping users investigate information without having to manually connect every piece of the puzzle.
+the whole concept revolves around investigating information, exploring different perspectives and connecting the dots instead of just consuming random information and forgetting about it 5 minutes later.
 
-### How TRACE Works
+it's for the curious ones. the overthinkers (in a productive way lol), the question-askers, the people who randomly google something at midnight and somehow end up researching an entirely different topic.
 
-A user begins by submitting a claim they want to investigate. This could be a viral post, a headline, a quotation, a statistic, a screenshot, or any statement they are unsure about.
+basically, if your brain has 37 tabs open at all times, welcome.
 
-TRACE analyzes the claim and breaks it into smaller, verifiable statements. It then explores relevant sources, identifies the origins of information where possible, examines supporting evidence, and compares findings across different publications or sources. Contradictions, missing context, outdated information, and unsupported statements can be highlighted rather than hidden behind a confident answer.
+why did I even want to build this?
 
-The final investigation is presented in a structured format, allowing users to understand the claim, examine the available evidence, explore sources, and see how the conclusion was reached.
+because I feel like we're consuming more information than ever, but that doesn't necessarily mean we're understanding more.
 
-### Core Capabilities
+everything is so fast now. quick answers, short videos, endless scrolling. we rarely take the time to actually explore something.
 
-* Claim Analysis: Breaks complex claims into smaller statements that can be investigated independently.
+I wanted TRACE to be built around a different approach.
 
-* Source Tracing: Helps locate the origins of information and identify where a claim was initially published or reported.
+not just finding stuff, but understanding it.
 
-* Evidence Comparison: Examines supporting and conflicting evidence from relevant sources.
+not just looking at information, but questioning it.
 
-* Context Detection: Identifies missing context, misleading framing, dates, and information that may change how a claim is interpreted.
+not just accepting things, but figuring out the connections ourselves.
 
-* Credibility Insights: Evaluates source relevance, reliability, and limitations without treating popularity as proof of credibility.
+and honestly, I think that's something worth exploring.
 
-* Contradiction Detection: Highlights disagreements between sources and evidence that may challenge a claim.
+who is this even for?
 
-* Investigation Reports: Organizes the research into a readable report rather than overwhelming users with disconnected links.
+honestly? anyone who's curious.
 
-* Transparent Conclusions: Explains why a claim appears supported, contradicted, misleading, partially supported, or unresolved.
+- students who wanna explore beyond their textbooks.
+- people who love researching random stuff.
+- curious minds who always have questions.
+- creators looking for new perspectives.
+- people who enjoy connecting dots and discovering things.
 
-### Evidence & Investigation
+you don't need to be some genius researcher or tech expert to get involved. being curious is enough.
 
-![How do ghostwriters research complex industry reports?](https://images.openai.com/static-rsc-4/ajuP07KMiTqxSwASrKZgxjvdLiNlQNFzOZ5Z7CibrZKAUUnpR2mLvasbmTBfsuBwSVoTYmAmdAlG3XHOeh6b5cfqBiMrgEM2s3-kwkWal33cPQ0rSh5EMcmkQioN-kQSlhh8UwoRR8TgIF4_AByEwRUCEquan-MbyeFUQWGRdrIm-6CjPMkEH48tKcIfNdS2?purpose=fullsize)
+THE BIGGER PICTURE 🚀
 
-![Investigative Journalism at Its Best](https://images.openai.com/static-rsc-4/TNNCVX29bHwXEvV8ZEkflkj9619QL4pm4As59DHFfldWtV2DK8AWz-z-fN9FfagDyIULx-9XTBwrNMeVhZyZAb6AAl2K7EJBGyKHc4DfVxgqsbXxe2HGRMGv2C74EAvdUDerp3VV3WIQ6JVzJ7vedE4VkNDTrww2EqSK49PHikxFpnmLMuirc6PHZlp2T6Bv?purpose=fullsize)
+okay, now here's where it gets interesting.
 
-TRACE is built around the idea that conclusions should never exist without evidence. Every investigation should distinguish between verified information, claims made by sources, interpretations, and unresolved questions. Not every claim will have a definitive answer, and not every source will agree. TRACE recognizes that uncertainty is part of investigation rather than something that should be artificially removed.
+I don't want TRACE to just be another project that gets built, posted online and forgotten about.
 
-Rather than forcing every claim into a simple True or False category, TRACE aims to provide a more meaningful understanding of the available information. A statement may be technically correct but misleading in context, partially supported by evidence, based on outdated information, or impossible to independently verify. Understanding these distinctions is what makes an investigation useful.
+there's potential to take it much further.
 
-### Why TRACE?
+imagine better discovery experiences, personalised exploration, AI-powered features, collaborative investigations and spaces where people can share what they've discovered.
 
-Traditional searching gives users information to explore, but often leaves them responsible for doing the entire investigation themselves. TRACE focuses on connecting those pieces into a coherent process.
+there's so much that could be explored here.
 
-It is designed to reduce the time spent jumping between tabs, make evidence easier to understand, improve visibility into source origins, and encourage users to question information rather than accept it at face value. It does not aim to replace search engines, journalists, researchers, or critical thinking. It aims to make the process of investigating information more accessible to everyday internet users.
+obviously, these are future possibilities, not features I'm claiming are already live. one step at a time.
 
-### Vision
+and what about the market?
 
-TRACE envisions an internet where people are not forced to choose between blindly trusting information and spending hours verifying it themselves. An internet where source origins are easier to understand, evidence is more accessible, conflicting information is visible, and conclusions can be examined rather than simply accepted.
+because yeah, ideas are cool, but they also need to make sense outside of a GitHub repository.
 
-The long-term vision is to make claim investigation a natural part of consuming digital information — whether someone is reading a breaking-news headline, watching a viral video, checking a statistic, or encountering something suspicious online.
+TRACE has potential to fit into a few pretty interesting markets:
 
-TRACE isn't built to tell people what to believe. It's built to help them discover what the evidence actually says.
+EdTech: students are always looking for better ways to learn, explore and understand things outside classrooms.
 
-Investigate before you believe.
+AI & intelligent discovery: AI is changing how people search, learn and interact with information. TRACE could explore this space with smarter discovery experiences.
+
+Research & productivity: people deal with tons of information every day. making it easier to explore and connect relevant information could solve an actual problem.
+
+Community learning: imagine people exploring topics together, sharing discoveries and building on each other's ideas.
+
+okay, but how could it actually make money?
+
+some possibilities:
+
+- Free basic access (because not everything needs to be behind a paywall).
+- Optional premium features.
+- Subscription plans for advanced users.
+- Partnerships with schools and educational organisations.
+- Business and institutional plans.
+
+the idea would be to keep the core experience accessible while making advanced features sustainable.
+
+market value?
+
+I'm not gonna randomly throw around a $10 million valuation just to make the project sound cool lmao.
+
+the actual value depends on how useful TRACE becomes, how many people use it, whether they keep coming back, what makes it different and whether it can generate revenue.
+
+but the space it's exploring has genuine commercial potential. the challenge is turning that potential into an actual product people want.
+
+where are we rn?
+
+TRACE is still a work in progress.
+
+there's a lot of experimenting, improving, changing things and figuring out what works.
+
+some ideas will work. some probably won't. that's literally how building stuff goes.
+
+I'd rather build something useful slowly than rush something just for the sake of saying it's finished.
+
+one last thing :)
+
+I think the internet needs more people who are curious enough to question things instead of just accepting whatever shows up on their screens.
+
+and that's pretty much the thought behind TRACE.
+
+it's not about knowing everything.
+
+it's about wanting to know more.
+
+still building. still learning. still figuring things out.
+
+anyway, if you've made it this far, you're officially part of the rabbit hole.
+
+don't just scroll past it. TRACE it. 🔎
+
+made with curiosity, late-night ideas and an unreasonable number of open tabs.
